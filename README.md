@@ -1,1 +1,1 @@
-# Task 1 od Data Science Internship @CodeClause
+# Task 1 of Data Science Internship @CodeClause
